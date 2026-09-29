@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "视频预览",
+    "description": "在文件预览中直接播放 mp4、webm、mov 和 Ogg 视频，支持流式加载与拖动进度"
+  }
+}

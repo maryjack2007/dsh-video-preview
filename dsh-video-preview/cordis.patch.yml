@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-video-preview
+      name: '@local/dsh-video-preview'

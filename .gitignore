@@ -1,0 +1,9 @@
+# Node
+node_modules/
+
+# Generated test fixture (see verify/fixtures.js)
+sample-video.mp4
+
+# Tooling noise
+*.log
+.DS_Store
